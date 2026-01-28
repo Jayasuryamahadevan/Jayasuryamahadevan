@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full Stack Developer | Open Source Enthusiast
 
-![.Jayasurya Mahadevan GitHub Header ](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jayasurya%20Mahadevan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20code&descAlignY=51&descAlign=62)
+![.Jayasurya M GitHub Header ](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jayasurya%20Mahadevan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20code&descAlignY=51&descAlign=62)
 
 Welcome to the GitHub profile of **Jayasurya Mahadevan**. I am a passionate Developer dedicated to building scalable, high-performance web applications and solving complex problems with innovative solutions.
 

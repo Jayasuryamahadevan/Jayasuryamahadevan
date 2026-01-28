@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full Stack Developer | Open Source Enthusiast
 
-![ Jayasurya Mahadevan GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jayasurya%20Mahadevan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20code&descAlignY=51&descAlign=62)
+![.Jayasurya Mahadevan GitHub Header ](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jayasurya%20Mahadevan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20code&descAlignY=51&descAlign=62)
 
 Welcome to the GitHub profile of **Jayasurya Mahadevan**. I am a passionate Developer dedicated to building scalable, high-performance web applications and solving complex problems with innovative solutions.
 
@@ -15,7 +15,7 @@ I'm **Jayasurya Mahadevan**, a tech explorer who loves turning ideas into realit
 - 🌱 I’m currently learning **Generative AI and System Design**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, Python, React, and Cloud Computing**.
-- 📫 How to reach me: **[Add Your Email Here]** or connect via LinkedIn below.
+- 📫 How to reach me: **[jayasuryamahadevan@gmail.com]** or connect via LinkedIn below.
 
 ## 🛠️ Tech Stack & Skills
 

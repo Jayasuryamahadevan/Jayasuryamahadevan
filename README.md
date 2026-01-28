@@ -1,60 +1,114 @@
-# Hi there, I'm Jayasurya Mahadevan 👋
-
-### Software Engineer | Full Stack Developer | Open Source Enthusiast
-
-![.Jayasurya M GitHub Header ](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jayasurya%20Mahadevan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20code&descAlignY=51&descAlign=62)
-
-Welcome to the GitHub profile of **Jayasurya Mahadevan**. I am a passionate Developer dedicated to building scalable, high-performance web applications and solving complex problems with innovative solutions.
-
----
-
-## 🚀 About Me
-
-I'm **Jayasurya Mahadevan**, a tech explorer who loves turning ideas into reality using code.
-- 🔭 I’m currently working on **Advanced Web Applications and AI integrations**.
-- 🌱 I’m currently learning **Generative AI and System Design**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **JavaScript, Python, React, and Cloud Computing**.
-- 📫 How to reach me: **[jayasuryamahadevan@gmail.com]** or connect via LinkedIn below.
-
-## 🛠️ Tech Stack & Skills
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats for Jayasurya Mahadevan
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasuryamahadevan&show_icons=true&theme=radical&count_private=true" alt="Jayasurya Mahadevan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuryamahadevan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=35DE46&center=true&vCenter=true&width=600&lines=Agentic+AI+Developer;Orchestrator+of+Intelligent+Systems;Researcher:+AI+%26+Biology;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasuryamahadevan&theme=radical" alt="GitHub Streak" />
+  <h1 style="font-size: 3em; font-weight: bold; margin-top: 0;">Jayasurya Mahadevan</h1>
+  <p style="font-size: 1.2em; color: #8b949e;">
+    <b>Agentic AI Architect</b> | <b>Biological Computing Researcher</b> | <b>Open Source Engineer</b>
+  </p>
 </div>
 
----
+<br />
 
-## 🔗 Connect with Jayasurya Mahadevan
+<div align="center">
+  <a href="https://github.com/Jayasuryamahadevan">
+    <img src="https://komarev.com/ghpvc/?username=Jayasuryamahadevan&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
+<br />
 
----
+## 🧬 Scientific & Technical Focus
 
-⭐️ From **Jayasurya Mahadevan**
+I am a researcher and engineer standing at the intersection of **Artificial General Intelligence** and **Computational Biology**. My work focuses on constructing autonomous, agentic systems that can reason, orchestrate, and solve complex multi-dimensional problems.
+
+*   🔭 **Current Research**: Architecting **Neuro-Symbolic AI** systems and **Agentic Orchestrators** that bridge the gap between LLMs and logical reasoning.
+*   🔬 **Bio-Computation**: Exploring the synergy between biological information processing and synthetic intelligence.
+*   🚀 **Mission**: To build elite-level, self-evolving software architectures that redefine the boundaries of what AI can achieve.
+
+<br />
+
+## 🛠️ The Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="icon" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="icon" width="65" height="65" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="icon" width="65" height="65" />
+      <br>LLMs
+    </td>
+        <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/LangChain_logo.png/600px-LangChain_logo.png" alt="icon" width="65" height="65" />
+      <br>LangChain
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 📈 Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayasuryamahadevan&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" alt="Jayasurya's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuryamahadevan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" alt="Top Languages" height="180" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasuryamahadevan&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
+</div>
+
+<br />
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:jayasuryamahadevan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br />
+<br />
+<div align="center">
+  <i>"The future is not just written in code, it is evolved through agents."</i>
+</div>

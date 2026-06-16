@@ -1,42 +1,49 @@
 <div align="center">
-  <h1 style="font-size: 2.5em; font-weight: bold; margin-bottom: 8px;">Jayasurya Mahadevan</h1>
-  <p style="font-size: 1.1em; font-weight: 300; letter-spacing: 1px; color: #8b949e;">
-    ARCHITECTING INTELLIGENT SYSTEMS &nbsp;|&nbsp; BIO-COMPUTATION
-  </p>
-  <br>
-</div>
-
-<div align="center" style="max-width: 600px; margin: 0 auto; line-height: 1.6;">
-  <p>
-    I am a researcher and engineer standing at the intersection of <b>Artificial General Intelligence</b> and <b>Biological Computing</b>. My mission is to construct autonomous, agentic systems that bridge the gap between biological reasoning and synthetic intelligence, redefining the boundaries of what software can achieve.
-  </p>
-</div>
-
-<br />
-<br />
-
-<div align="center">
-  <h3 style="font-weight: normal; letter-spacing: 2px; font-size: 0.9em; text-transform: uppercase;">The Arsenal</h3>
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,aws,js,ts,react,nextjs&theme=dark" alt="Tech Stack" />
-</div>
-
-<br />
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasuryamahadevan&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuryamahadevan&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jayasuryamahadevan" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <h1 style="font-size: 3em; font-weight: 800; letter-spacing: 1px;">Jayasurya Mahadevan</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=450&lines=Architecting+Intelligent+Systems;Exploring+Bio-Computation;Bridging+AGI+and+Biology" alt="Typing SVG" />
   </a>
-  <a href="mailto:jayasuryamahadevan@gmail.com" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</div>
+
+<br />
+
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+  <p style="line-height: 1.8; font-size: 1.05em; color: #c9d1d9; font-weight: 300;">
+    Researcher and engineer standing at the intersection of <b style="color: #ffffff;">Artificial General Intelligence</b> and <b style="color: #ffffff;">Biological Computing</b>. Constructing autonomous, agentic systems that bridge the gap between biological reasoning and synthetic intelligence to redefine the boundaries of software.
+  </p>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <p style="font-size: 0.85em; letter-spacing: 3px; text-transform: uppercase; color: #8b949e; margin-bottom: 15px;">The Arsenal</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,aws,js,ts,react,nextjs&theme=dark&perline=9" alt="Tech Stack" />
+  </a>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <a href="https://github.com/Jayasuryamahadevan">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jayasuryamahadevan&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Jayasuryamahadevan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuryamahadevan&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="150" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jayasuryamahadevan">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jayasuryamahadevan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 

@@ -1,30 +1,27 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║       ██  █████  ██    ██  █████  ███████ ██    ██ ██████  ██    ██  █████   ║
-║       ██ ██   ██  ██  ██  ██   ██ ██      ██    ██ ██   ██  ██  ██  ██   ██  ║
-║       ██ ███████   ████   ███████ ███████ ██    ██ ██████    ████   ███████  ║
-║  ██   ██ ██   ██    ██    ██   ██      ██ ██    ██ ██   ██    ██    ██   ██  ║
-║   █████  ██   ██    ██    ██   ██ ███████  ██████  ██   ██    ██    ██   ██  ║
-║                                                  M  A  H  A  D  E  V  A  N   ║
-║                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────╢
-║                                                                              ║
-║   ROLE       Infrastructure for autonomous systems                           ║
-║   LAYERS     identity → capability → coordination → safety → decision        ║
-║   LANGUAGE   Python  ·  C++17 / CUDA  ·  TypeScript                          ║
-║   METHOD     build the primitive, not the wrapper                            ║
-║   NOW        FASP — coordination for machines sharing no clock               ║
-║                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────╢
-║   linkedin.com/in/jayasuryamahadevan    ·    jayasuryamahadevan@gmail.com    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+<div align="center">
+
+# Jayasurya&nbsp;Mahadevan
+
+**Infrastructure for autonomous systems**
+
+</div>
+
+```yaml
+# build the primitive, not the wrapper
+
+works_on:   protocols and runtimes, written from first principles
+layers:     identity → capability → coordination → safety → decision
+languages:  Python · C++17 / CUDA · TypeScript
+principle:  a signed message may request a halt — never clear one
+current:    FASP · coordination for machines that share no clock
 ```
 
 <div align="center">
-<a href="https://www.linkedin.com/in/jayasuryamahadevan"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-<a href="mailto:jayasuryamahadevan@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-<a href="https://github.com/Jayasuryamahadevan?tab=repositories"><b>All repositories</b></a>
+
+[**LinkedIn**](https://www.linkedin.com/in/jayasuryamahadevan) &nbsp;·&nbsp;
+[**Email**](mailto:jayasuryamahadevan@gmail.com) &nbsp;·&nbsp;
+[**Repositories**](https://github.com/Jayasuryamahadevan?tab=repositories)
+
 </div>
 
 > [!NOTE]

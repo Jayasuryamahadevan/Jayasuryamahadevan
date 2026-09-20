@@ -223,7 +223,7 @@ $$k = \sqrt{-2\ln\alpha} \quad\Longrightarrow\quad k \approx 5.26 \;\text{ at }\
 > [!NOTE]
 > **Specification over implementation.** AIC's deliverable is `SPEC.md`, not its
 > Python. An agent written in a language nobody has invented yet should be able
-> to conform from the document alone.
+to conform from the document alone.
 
 > [!CAUTION]
 > **State the limits.** FASP's safety case marks independent validation
@@ -244,6 +244,10 @@ $$k = \sqrt{-2\ln\alpha} \quad\Longrightarrow\quad k \approx 5.26 \;\text{ at }\
 <tr><td><a href="https://github.com/Jayasuryamahadevan/7am-arivu"><b>7am-arivu</b></a></td><td>VS Code extension for ClawHub skills — search, preview, safety-check and install with a tracked lockfile</td><td><sub>TypeScript · VS Code API</sub></td></tr>
 <tr><td><a href="https://github.com/Jayasuryamahadevan/IntoTheLLMs-Workshop"><b>IntoTheLLMs</b></a></td><td>Teaching agentic workflows live — generates a workflow from a business prompt and shows how an <code>AGENTS.md</code> layer changes model behaviour</td><td><sub>JavaScript · OpenRouter</sub></td></tr>
 </table>
+
+### Ecosystem contributions
+
+Recent community-bounty work includes evaluating agent-economy workflows around [RustChain](https://github.com/Scottcjn/Rustchain), a Proof-of-Antiquity network with agent-facing tooling.
 
 ---
 

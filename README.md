@@ -200,7 +200,7 @@ $$k = \sqrt{-2\ln\alpha} \quad\Longrightarrow\quad k \approx 5.26 \;\text{ at }\
 
 > [!TIP]
 > The last one is why FASP never returns a bare position. Two robots closing at
-> a combined 5 m/s are **5 cm apart per millisecond** of clock disagreement, so
+> a combined 5 m/s are **5 mm apart per millisecond** of clock disagreement, so
 > a timestamp is an interval, a pose is a mean and a covariance, and a
 > separation verdict quotes the risk it was decided at.
 
